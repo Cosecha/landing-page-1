@@ -1,0 +1,22 @@
+{
+  "name": "landing-page-1",
+  "version": "0.0.1",
+  "description": "Landing page template for Cosecha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosecha/landing-page-1.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Celso Mireles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cosecha/landing-page-1/issues"
+  },
+  "homepage": "https://github.com/Cosecha/landing-page-1#readme"
+}
